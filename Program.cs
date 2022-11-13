@@ -1,6 +1,4 @@
-﻿using System.Net;
-using System.Text;
-using Serilog;
+﻿using Serilog;
 
 namespace ExchangeSeq
 {
